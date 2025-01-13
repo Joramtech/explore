@@ -18,7 +18,8 @@ items:
  - mui/material-ui
  - PrestaShop/PrestaShop
  - rlibre/x4js
- - StanGirard/quivr
+ - QuivrHQ/quivr
+ - axone-protocol
 display_name: Made in France
 created_by: ferdi05
 image: made-in-france.png
